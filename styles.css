@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: white;
+}
+
+header {
+    background-color: #1a1a1a;
+    color: white;
+    padding: 20px 0;
+}
+
+section h2 {
+    color: #007bff;
+    margin-top: 30px;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 10px 0;
+}
+
+img.rounded-circle {
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.nav-link.nav-button {
+    background-color: #007bff;
+    color: white !important;
+    padding: 10px 20px;
+    border-radius: 25px;
+    margin: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.nav-link.nav-button:hover {
+    background-color: #0056b3;
+}
+
+.section-separator {
+    border: 1px solid #333;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #1a1a1a;
+}
+
+.table-dark {
+    color: white;
+    background-color: #343a40;
+    border-color: #454d55;
+}
